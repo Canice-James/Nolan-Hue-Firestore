@@ -1,0 +1,5 @@
+[build]
+  publish = "fireck/build"
+  functions = "fireck/functions-zip"
+  base = "fireck"
+  command = ""
